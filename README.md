@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/github/v/release/arianneorpilla/jidoujisho?include_prereleases" alt="latest release" />
   </a>
   <a href="https://github.com/TheAtlasRises/jidoujisho/commits/Neo">
-    <img src="https://img.shields.io/github/last-commit/TheAtlasRises/jidoujisho" alt="latest commit" />
+    <img src="https://img.shields.io/github/last-commit/TheAtlasRises/jidoujisho/Neo" alt="latest commit" />
   </a>
   <a href="https://github.com/TheAtlasRises/jidoujisho/actions">
     <img src="https://img.shields.io/github/actions/workflow/status/TheAtlasRises/jidoujisho/main.yml" alt="actions" />
