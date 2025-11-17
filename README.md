@@ -7,11 +7,11 @@
   <a href="https://github.com/arianneorpilla/jidoujisho/releases/tag/2.9.1">
     <img src="https://img.shields.io/github/v/release/arianneorpilla/jidoujisho?include_prereleases" alt="latest release" />
   </a>
-  <a href="https://github.com/arianneorpilla/jidoujisho/commits/main">
-    <img src="https://img.shields.io/github/last-commit/arianneorpilla/jidoujisho" alt="latest commit" />
+  <a href="https://github.com/TheAtlasRises/jidoujisho/commits/Neo">
+    <img src="https://img.shields.io/github/last-commit/TheAtlasRises/jidoujisho" alt="latest commit" />
   </a>
-  <a href="https://github.com/arianneorpilla/jidoujisho/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/arianneorpilla/jidoujisho/main.yml" alt="actions" />
+  <a href="https://github.com/TheAtlasRises/jidoujisho/actions">
+    <img src="https://img.shields.io/github/actions/workflow/status/TheAtlasRises/jidoujisho/main.yml" alt="actions" />
   </a>
   <a href="https://github.com/arianneorpilla/jidoujisho/stargazers">
     <img src="https://img.shields.io/github/stars/arianneorpilla/jidoujisho" alt="stars" />
