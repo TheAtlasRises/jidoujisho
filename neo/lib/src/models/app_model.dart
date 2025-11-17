@@ -31,7 +31,7 @@ import 'package:permission_handler/permission_handler.dart';
 import 'package:remove_emoji/remove_emoji.dart';
 import 'package:restart_app/restart_app.dart';
 import 'package:subtitle/subtitle.dart';
-import 'package:wakelock/wakelock.dart';
+import 'package:wakelock_plus/wakelock_plus.dart';
 import 'package:neo/creator.dart';
 import 'package:neo/dictionary.dart';
 import 'package:neo/language.dart';
@@ -2471,7 +2471,7 @@ class AppModel with ChangeNotifier {
     _overrideDictionaryColor = null;
     _overrideDictionaryTheme = null;
 
-    await Wakelock.enable();
+    await WakelockPlus.enable();
     await SystemChrome.setEnabledSystemUIMode(SystemUiMode.immersiveSticky);
 
     if (item != null && mediaSource.implementsHistory) {
@@ -2513,7 +2513,7 @@ class AppModel with ChangeNotifier {
     _overrideDictionaryTheme = null;
     blockCreatorInitialMedia = false;
     isProcessingEmbeddedSubtitles = false;
-    await Wakelock.disable();
+    await WakelockPlus.disable();
     await SystemChrome.setEnabledSystemUIMode(SystemUiMode.edgeToEdge);
     await mediaSource.onSourceExit(
       appModel: this,
